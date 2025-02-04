@@ -1,4 +1,4 @@
-![Header](./Banner.webp)
+![Header](./Banner-git.jpg)
 
 <h1 align="center">Hi 👋, I'm Fatema Hanif</h1>
 <h3 align="center">I am a passionate frontend developer and software development engineer in test.</h3>
