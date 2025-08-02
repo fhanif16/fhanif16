@@ -1,15 +1,6 @@
 ![Header](./Banner-git.jpg)
 
 <h1 align="center">Hi 👋, I'm Fatema Hanif</h1>
-<h3 align="center">I am a passionate frontend developer and software development engineer in test.</h3>
-
-- 🔭 I’m currently working on **I am currently working at DTCC as a Software Development Engineer in Test**
-
-- 🌱 I’m currently learning **Tailwind CSS for responsive UI design, MongoDB Atlas for cloud database solutions, and advanced JavaScript concepts.**
-
-- 👯 I’m looking to collaborate on **React-based web applications with seamless user experiences, focusing on dynamic frontend design and efficient backend integration. projects that involve interactive user interfaces or AI integration.**
-
-- 🤝 I’m looking for help with **Enhancing MongoDB queries and optimizing database structures for scalable applications.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fhanif16/Landing-page](https://github.com/fhanif16/Landing-page)
 
